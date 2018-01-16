@@ -1,0 +1,4 @@
+Q What happens when you initialize a repository? Why do you need to do it?
+-> when we initialize a repository it creates .git file in it,we need to add command git init to make it a git repositiory
+    because all the git commands work on git repositoried not in normal repository.
+    
